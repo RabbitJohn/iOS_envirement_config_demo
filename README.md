@@ -2,7 +2,7 @@
 this demo show how to manage and config different url for you iOS project's envirement
 
 
-How to:
+How to use it:
 
 Steps:
 1、duplicate your project in the targets in the Xcode, and rename the duplicated target, remove the copy info.plist of the duplicated target. and choose the origin info.plist as the info.plist for the duplicated target in the General tag.
